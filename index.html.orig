@@ -6,6 +6,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+<<<<<<< HEAD
+<p>main page for starvagrant's repositories</p>
+<ul>
+	<a>https://github.com/starvagrant/blarg_tut</a>
+	<a>https://github.com/starvagrant/habit</a>
+	<a>https://github.com/starvagrant/openrpg</a>
+</ul>
+=======
   <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
   <link rel="stylesheet" href="stylesheets/github-dark.css">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -19,12 +27,7 @@
 </head>
 
 <body>
-<p>main page for starvagrant's repositories</p>
-<ul>
-	<a>https://github.com/starvagrant/blarg_tut</a>
-	<a>https://github.com/starvagrant/habit</a>
-	<a>https://github.com/starvagrant/openrpg</a>
-</ul>
+
   <div class="wrapper">
     <header>
       <h1 class="title">Starvagrant.GitHub.io</h1>
@@ -86,3 +89,4 @@
   
 </body>
 </html>
+>>>>>>> 12c5e3920143b7d9f9256f07a06742f4ca8d2070
